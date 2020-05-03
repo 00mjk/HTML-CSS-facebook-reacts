@@ -1,11 +1,9 @@
 .image{
-    background-image: url(background.jpg);
-    background-position: center;
-    background-repeat: no-repeat;
+    background: url("background.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
     background-size: cover;
-    background-color: #cccccc;
-    position: relative;
-    height: 500px;
 }
 .care_Emoji{
     color: cyan; 
@@ -17,6 +15,8 @@
     text-align: center; 
 }
 .emoji_Body{
+    position: absolute;
+    top: 80px;
     background-color: darkorange;
     width: 250px;
     height: 250px;
@@ -155,6 +155,8 @@
     left: 50px;
     transform: rotate(15deg);
     border-bottom : 50px solid transparent;
+    border-block-end-style: dashed;
+    animation: hearthbeat;
 }
 .left_Arm{
     position: absolute;
@@ -178,7 +180,6 @@
     transform: rotate(250deg);
     background-image: linear-gradient(-150deg, #fcd15e, #f29a36);
 }
-
 .like_Emoji{
     position: absolute;
     left: 280px;
@@ -279,7 +280,6 @@
     border-radius: 200%/100px 120px 0 0;
     transform: rotate(28deg);
 }
-
 .wow_emoji_Mouth{
     position: absolute;
     top: 200px;
