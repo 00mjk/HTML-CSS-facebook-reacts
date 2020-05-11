@@ -425,3 +425,120 @@
     background-color: #000000;
     background-image: linear-gradient(#d51d39 40%,#000000 40%);
 }
+.cry_emoji_Body{
+    position: absolute;
+    top: 400px;
+    left: 560px;
+    background-color: darkorange;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    background-image: linear-gradient(#e4ba46, #f29a36);
+}
+.cry_left_Eye{
+    position: absolute;
+    top: 480px;
+    left: 600px;
+    background-color: #1f2138;
+    width: 40px;
+    height: 50px;
+    border-top-left-radius: 100%;
+    border-top-right-radius: 100%;
+    border-bottom-left-radius: 100%;
+    border-bottom-right-radius: 100%;
+    transform: rotate(-10deg);
+    background-image: radial-gradient(#394269 10%,#242746 50%);
+}
+.cry_left_Eyeball{
+    position: absolute;
+	top: 500px;
+	left: 610px;
+	background-color: #4f5168;
+	width: 15px;
+	height: 20px;
+	border-radius: 50%;
+	transform: rotate(-5deg);
+}
+.cry_right_Eyeball{
+    position: absolute;
+	top: 500px;
+	left: 733px;
+	background-color: #4f5168;
+	width: 15px;
+	height: 20px;
+	border-radius: 50%;
+	transform: rotate(5deg);
+}
+.cry_right_Eye{
+    position: absolute;
+    top: 480px;
+    left: 720px;
+    background-color: #1f2138;
+    width: 40px;
+    height: 50px;
+    border-top-left-radius: 100%;
+    border-top-right-radius: 100%;
+    border-bottom-left-radius: 100%;
+    border-bottom-right-radius: 100%;
+    transform: rotate(10deg);
+    background-image: radial-gradient(#394269 10%,#242746 50%);
+}
+.cry_emoji_Mouth{
+    position: absolute;
+    top: 550px;
+    left: 635px;
+    width: 70px; 
+    height: 110px;  
+    border: solid 13px #8f4a01;
+    border-color: #ac5a03 transparent transparent transparent;
+    border-radius: 57%/100px 100px 0 0;
+}
+.cry_emoji_Tear{
+    position: absolute;
+	top: 533px;
+	left: 733px;
+	background-color: #084f8a;
+	width: 15px;
+	height: 25px;
+    border-radius: 50%;
+}
+.cry_emoji_Tear2{
+    position: absolute;
+	top: 563px;
+	left: 733px;
+	background-color: #084f8a;
+	width: 15px;
+	height: 25px;
+    border-radius: 50%;
+}
+.cry_emoji_Tear3{
+    position: absolute;
+	top: 593px;
+	left: 733px;
+	background-color: #084f8a;
+	width: 15px;
+	height: 25px;
+    border-radius: 50%;
+}
+.cry_left_Eyebrow{
+    position: absolute;
+    top: 470px;
+    left: 580px;
+    width: 60px; 
+    height: 15px;  
+    border: solid 7px #8f4a01;
+    border-color: #ac5a03 transparent transparent transparent;
+    border-radius: 50%/15px 15px 0 0;
+    transform: rotate(-25deg);
+}
+.cry_right_Eyebrow{
+    position: absolute;
+    top: 470px;
+    left: 705px;
+    width: 60px; 
+    height: 15px;  
+    border: solid 7px #8f4a01;
+    border-color: #ac5a03 transparent transparent transparent;
+    border-radius: 50%/15px 15px 0 0;
+    transform: rotate(25deg);
+}
