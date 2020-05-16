@@ -39,13 +39,13 @@
 }
 .left_Eyeball{
     position: absolute;
-	top: 140px;
-	left: 75px;
-	background-color: #4f5168;
-	width: 15px;
-	height: 20px;
-	border-radius: 50%;
-	transform: rotate(5deg);
+    top: 140px;
+    left: 75px;
+    background-color: #4f5168;
+    width: 15px;
+    height: 20px;
+    border-radius: 50%;
+    transform: rotate(5deg);
 }
 .right_Eye{
     position: absolute;
@@ -85,13 +85,13 @@
 }
 .right_Eyeball{
     position: absolute;
-	top: 140px;
-	left: 170px;
-	background-color: #4f5168;
-	width: 15px;
-	height: 20px;
-	border-radius: 50%;
-	transform: rotate(-5deg);
+    top: 140px;
+    left: 170px;
+    background-color: #4f5168;
+    width: 15px;
+    height: 20px;
+    border-radius: 50%;
+    transform: rotate(-5deg);
 }
 .emoji_Mouth{
     position: absolute;
@@ -108,9 +108,9 @@
     top: 99px;
     left: 0px;
     width: 0px;
-	height: 0px;
-	border-left: 90px solid transparent;
-	border-right: 90px solid transparent;
+    height: 0px;
+    border-left: 90px solid transparent;
+    border-right: 90px solid transparent;
     border-top: 100px solid #d51d39;
 }
 .firstCircle{
@@ -226,23 +226,23 @@
 }
 .wow_left_Eyeball{
     position: absolute;
-	top: 140px;
-	left: 900px;
-	background-color: #4f5168;
-	width: 15px;
-	height: 20px;
-	border-radius: 50%;
-	transform: rotate(5deg);
+    top: 140px;
+    left: 900px;
+    background-color: #4f5168;
+    width: 15px;
+    height: 20px;
+    border-radius: 50%;
+    transform: rotate(5deg);
 }
 .wow_right_Eyeball{
     position: absolute;
-	top: 140px;
-	left: 1005px;
-	background-color: #4f5168;
-	width: 15px;
-	height: 20px;
-	border-radius: 50%;
-	transform: rotate(5deg);
+    top: 140px;
+    left: 1005px;
+    background-color: #4f5168;
+    width: 15px;
+    height: 20px;
+    border-radius: 50%;
+    transform: rotate(5deg);
 }
 .wow_right_Eye{
     position: absolute;
@@ -412,7 +412,6 @@
     border-radius: 70px 70px 0 0;
     background-color: #d51d39;
     background-image: linear-gradient(#bb6262 ,#d51d39);
-
 }
 .l_emoji_Mouth1{
     position: absolute;
@@ -495,29 +494,29 @@
 }
 .cry_emoji_Tear{
     position: absolute;
-	top: 533px;
-	left: 733px;
-	background-color: #084f8a;
-	width: 15px;
-	height: 25px;
+    top: 533px;
+    left: 733px;
+    background-color: #084f8a;
+    width: 15px;
+    height: 25px;
     border-radius: 50%;
 }
 .cry_emoji_Tear2{
     position: absolute;
-	top: 563px;
-	left: 733px;
-	background-color: #084f8a;
-	width: 15px;
-	height: 25px;
+    top: 563px;
+    left: 733px;
+    background-color: #084f8a;
+    width: 15px;
+    height: 25px;
     border-radius: 50%;
 }
 .cry_emoji_Tear3{
     position: absolute;
-	top: 593px;
-	left: 733px;
-	background-color: #084f8a;
-	width: 15px;
-	height: 25px;
+    top: 593px;
+    left: 733px;
+    background-color: #084f8a;
+    width: 15px;
+    height: 25px;
     border-radius: 50%;
 }
 .cry_left_Eyebrow{
