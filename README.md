@@ -1,2 +1,2 @@
 # HTML-CSS-facebook-reacts
-Training HTML and CSS.
+Training my HTML and CSS skills.
